@@ -14,7 +14,7 @@ $row=mysqli_fetch_array($ret);
 $adminname=$row['AdminName'];
 
 ?>
-                <div class="profile-usertitle-name">Rahul Gandhi</div>
+                <div class="profile-usertitle-name">Brijesh</div>
                 <div class="profile-usertitle-status"><span class="indicator label-success"></span>Online</div>
             </div>
             <div class="clear"></div>
